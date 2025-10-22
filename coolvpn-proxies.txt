@@ -15,10 +15,10 @@
         "as": "",
         "asname": "",
         "city": "Zürich",
-        "continent": "Europe",
+        "continent": "Latin America",
         "continentCode": "EU",
-        "country": "Switzerland",
-        "countryCode": "CH",
+        "country": "Brazil",
+        "countryCode": "BR",
         "district": "",
         "hosting": true,
         "isp": "Self-hosted",
@@ -36,13 +36,13 @@
       "last_seen": 1760313600.0,
       "port": 8080,
       "protocol": "http",
-      "proxy": "74.242.217.240:8080",
+      "proxy": "113.153.126.17:443",
       "ssl": false,
       "timeout": 17.59,
       "times_alive": 12,
       "times_dead": 0,
       "uptime": 99.92,
-      "ip": "74.242.217.240"
+      "ip": "113.153.126.17"
     }
   ]
 }
